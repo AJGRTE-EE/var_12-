@@ -1,0 +1,6 @@
+D:\code\c++\work\LabCLR_Gui\LabCLR_Gui\Debug\LabCLR_Gui.vcxprojAssemblyReference.cache
+D:\code\c++\work\LabCLR_Gui\LabCLR_Gui\Debug\LabCLRGui.MyForm.resources
+D:\code\c++\work\LabCLR_Gui\LabCLR_Gui\Debug\LabCLR_Gui.vcxproj.GenerateResource.cache
+D:\Загрузки\Var_12-20210613T175246Z-001\Var_12\LabCLR_Gui\LabCLR_Gui\Debug\LabCLR_Gui.vcxprojAssemblyReference.cache
+D:\Загрузки\Var_12-20210613T175246Z-001\Var_12\LabCLR_Gui\LabCLR_Gui\Debug\LabCLRGui.MyForm.resources
+D:\Загрузки\Var_12-20210613T175246Z-001\Var_12\LabCLR_Gui\LabCLR_Gui\Debug\LabCLR_Gui.vcxproj.GenerateResource.cache

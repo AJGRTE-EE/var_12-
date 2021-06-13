@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+D:\Загрузки\Var_12-20210613T175246Z-001\Var_12\LabCLR_Gui\LabCLR_Gui\MyForm.h(215,21): warning C4101: ex: неиспользованная локальная переменная
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  LabCLR_Gui.vcxproj -> D:\Загрузки\Var_12-20210613T175246Z-001\Var_12\LabCLR_Gui\Debug\LabCLR_Gui.exe
